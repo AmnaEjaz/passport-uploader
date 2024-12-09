@@ -4,6 +4,8 @@
 
 **Demo** Hosted via aws amplify: https://main.d3lbmmwgezu1ng.amplifyapp.com/
 
+**Screenshot** ![Successful Image Analysis](./ss.png)
+
 ## Features
 
 - **User-friendly Image Upload**: Simple and intuitive interface to upload passport images.
